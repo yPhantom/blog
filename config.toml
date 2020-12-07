@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Geekblog"
+title = "6yx"
 theme = "hugo-geekblog"
 
 # Geekblog required configuration
@@ -40,3 +40,5 @@ disablePathToLower = true
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML", "ATOM"]
+
+  geekblogToC = 3
